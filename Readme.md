@@ -3,5 +3,3 @@
 - Gutierrez, Andrei, G.
 
 
-Collaborators
-Andrei
